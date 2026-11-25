@@ -35,6 +35,10 @@ Free browser sound-effect generator:
 https://secondwindmc.github.io/retro-sfx-lab.html
 
 
+## Tutorials
+
+- [How to add retro UI sound effects in GDevelop](https://dev.to/secondwindmc/how-to-add-retro-ui-sound-effects-in-gdevelop-with-a-free-cc0-pack-575p)
+
 ## Distribution mirrors
 
 - [OpenGameArt listing](https://opengameart.org/content/circuit-ui-sfx-free-sample)
