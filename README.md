@@ -30,6 +30,10 @@ Technical write-up:
 
 https://dev.to/secondwindmc/i-generated-148-retro-game-sound-effects-procedurally-in-python-dpa
 
+Free browser sound-effect generator:
+
+https://secondwindmc.github.io/retro-sfx-lab.html
+
 ## License for the free sample
 
 The 12 files in `sample-wav/` and the packaged free sample zip are released under CC0 1.0 Universal. See `SAMPLE-LICENSE.txt`.
