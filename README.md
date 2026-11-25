@@ -35,6 +35,13 @@ Free browser sound-effect generator:
 https://secondwindmc.github.io/retro-sfx-lab.html
 
 
+## Distribution mirrors
+
+- [OpenGameArt listing](https://opengameart.org/content/circuit-ui-sfx-free-sample)
+- [Godot Asset Store page](https://store.godotengine.org/asset/secondwindmc/circuit-ui-sfx-free-sample/) (pending review)
+- [Godot guide and direct zip](https://secondwindmc.github.io/godot-sound-effects.html)
+- [GDevelop guide and direct zip](https://secondwindmc.github.io/gdevelop-sound-effects.html)
+
 ## Individual CC0 downloads
 
 The sample sounds are also mirrored individually on vibeassets (all CC0):
