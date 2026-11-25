@@ -24,7 +24,7 @@ The full pack includes:
 - matching OGG and MP3 versions
 - metadata CSV
 - preview montage
-- adaptable Python generator source for studying and modifying the procedural sound recipes
+- command-line Python generator source for studying, modifying, and generating reproducible custom variations
 - royalty-free commercial-use license
 
 Product page and audio preview:
