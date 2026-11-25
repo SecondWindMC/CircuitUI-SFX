@@ -8,7 +8,11 @@ Free sample and product information for **Circuit UI SFX Vol. 1**, a pack of 148
 
 This repository includes 12 sample WAV files in `sample-wav/` and the packaged sample zip: `CircuitUI-SFX-free-sample.zip`.
 
-You can also download it from the product page:
+You can browse previews and download it from the free sample page:
+
+https://secondwindmc.github.io/free-retro-game-sound-effects.html
+
+Direct zip download:
 
 https://secondwindmc.github.io/assets/CircuitUI-SFX-free-sample.zip
 
@@ -20,6 +24,7 @@ The full pack includes:
 - matching OGG and MP3 versions
 - metadata CSV
 - preview montage
+- adaptable Python generator source for studying and modifying the procedural sound recipes
 - royalty-free commercial-use license
 
 Product page and audio preview:
@@ -38,10 +43,10 @@ https://secondwindmc.github.io/retro-sfx-lab.html
 ## Tutorials
 
 - [How to add retro UI sound effects in GDevelop](https://dev.to/secondwindmc/how-to-add-retro-ui-sound-effects-in-gdevelop-with-a-free-cc0-pack-575p)
+- [How to add retro UI sound effects in Godot 4](https://dev.to/secondwindmc/how-to-add-retro-ui-sound-effects-in-godot-4-with-a-free-cc0-pack-4fi2)
 
 ## Distribution mirrors
 
-- [OpenGameArt listing](https://opengameart.org/content/circuit-ui-sfx-free-sample)
 - [Godot Asset Store page](https://store.godotengine.org/asset/secondwindmc/circuit-ui-sfx-free-sample/) (pending review)
 - [Godot guide and direct zip](https://secondwindmc.github.io/godot-sound-effects.html)
 - [GDevelop guide and direct zip](https://secondwindmc.github.io/gdevelop-sound-effects.html)
