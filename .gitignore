@@ -1,0 +1,13 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Imported translations/resources
+*.translation
+
+# Export presets may contain local paths or credentials
+export_presets.cfg
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
