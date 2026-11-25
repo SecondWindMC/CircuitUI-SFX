@@ -34,6 +34,22 @@ Free browser sound-effect generator:
 
 https://secondwindmc.github.io/retro-sfx-lab.html
 
+
+## Individual CC0 downloads
+
+The sample sounds are also mirrored individually on vibeassets (all CC0):
+
+- [Retro UI click sound effect](https://vibeassets.io/a/9y84jtvaaq)
+- [Coin](https://vibeassets.io/a/sz7rnlzwyo)
+- [Pickup](https://vibeassets.io/a/p9n6q7noev)
+- [Powerup](https://vibeassets.io/a/f4a98dinqf)
+- [Jump](https://vibeassets.io/a/cncqkfsbkk)
+- [Hit](https://vibeassets.io/a/w78sie3avm)
+- [Laser](https://vibeassets.io/a/lykd0fjx79)
+- [Explosion](https://vibeassets.io/a/dgsyyxyd1v)
+- [Success](https://vibeassets.io/a/fwlsieha3l)
+- [Ui Confirm](https://vibeassets.io/a/m86tu4ky3j)
+
 ## License for the free sample
 
 The 12 files in `sample-wav/` and the packaged free sample zip are released under CC0 1.0 Universal. See `SAMPLE-LICENSE.txt`.
