@@ -39,6 +39,8 @@ Free browser sound-effect generator:
 
 https://secondwindmc.github.io/retro-sfx-lab.html
 
+The complete self-contained HTML/JavaScript source for Retro SFX Lab is mirrored in `tools/retro-sfx-lab.html` under this repository's CC0 license. It generates sounds locally in the browser, exports individual WAV files, and can batch-export five variations as a ZIP without a server or external library.
+
 
 ## Tutorials
 
