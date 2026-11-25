@@ -25,7 +25,7 @@ The full pack includes:
 - metadata CSV
 - preview montage
 - command-line Python generator source for studying, modifying, and generating reproducible custom variations
-- royalty-free commercial-use license
+- royalty-free commercial-use license ([read before buying](https://secondwindmc.github.io/circuit-ui-license.html))
 
 Product page and audio preview:
 
